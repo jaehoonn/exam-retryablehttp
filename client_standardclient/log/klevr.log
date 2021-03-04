@@ -1,0 +1,9 @@
+DEBUG: 2021/03/04 12:45:36.966692 logger.go:407: Debug verbosity set to 0
+DEBUG: 2021/03/04 12:45:37.001294 main.go:25: start
+DEBUG: 2021/03/04 12:45:37.001817 main.go:28: aaaa
+DEBUG: 2021/03/04 12:50:14.448066 logger.go:407: Debug verbosity set to 0
+DEBUG: 2021/03/04 12:50:14.485792 main.go:25: start
+DEBUG: 2021/03/04 12:50:14.485792 main.go:28: [GET] http://localhost:5000/hello
+DEBUG: 2021/03/04 12:50:50.309924 logger.go:407: Debug verbosity set to 0
+DEBUG: 2021/03/04 12:50:50.346842 main.go:25: start
+DEBUG: 2021/03/04 12:50:50.346842 main.go:29: [GET] http://localhost:5000/hello
